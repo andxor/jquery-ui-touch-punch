@@ -1,16 +1,16 @@
 {
-  "name": "jquery-ui-touch-punch-amd",
+  "name": "@andxor/jquery-ui-touch-punch-fix",
   "version": "1.0.1",
-  "description": "Touch Event Support for jQuery UI",
+  "description": "Touch Event Support for jQuery UI + detection fix",
   "main": "jquery.ui.touch-punch.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladikoff/jquery-ui-touch-punch.git"
+    "url": "git+https://github.com/andxor/jquery-ui-touch-punch.git"
   },
   "author": "",
   "license": "(MIT OR GPL-2.0)",
   "bugs": {
-    "url": "https://github.com/vladikoff/jquery-ui-touch-punch/issues"
+    "url": "https://github.com/andxor/jquery-ui-touch-punch/issues"
   },
-  "homepage": "https://github.com/vladikoff/jquery-ui-touch-punch#readme"
+  "homepage": "https://github.com/andxor/jquery-ui-touch-punch#readme"
 }

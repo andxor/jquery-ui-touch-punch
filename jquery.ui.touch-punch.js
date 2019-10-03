@@ -1,5 +1,5 @@
 /*!
- * jQuery UI Touch Punch 0.2.3
+ * jQuery UI Touch Punch 0.2.3 + detection update
  *
  * Copyright 2011–2014, Dave Furfero
  * Dual licensed under the MIT or GPL Version 2 licenses.
@@ -24,7 +24,7 @@
 }(function( $ ) {
 
   // Detect touch support
-  $.support.touch = 'ontouchend' in document;
+  $.support.touch = 'ontouchend' in document || 'maxTouchPoints' in navigator;
 
   // Ignore browsers without touch support
   if (!$.support.touch) {
