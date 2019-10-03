@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/andxor/jquery-ui-touch-punch/issues"
   },
-  "homepage": "https://github.com/andxor/jquery-ui-touch-punch#readme"
+  "homepage": "https://github.com/andxor/jquery-ui-touch-punch#readme",
+  "dependencies": {
+    "jquery-ui": "^1.12.1"
+  }
 }

@@ -14,7 +14,7 @@
     // AMD. Register as an anonymous module.
     define([
       "jquery",
-      "draggable"
+      "jquery-ui/ui/widgets/draggable"
     ], factory );
   } else {
 
