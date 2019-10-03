@@ -1,6 +1,6 @@
 {
   "name": "@andxor/jquery-ui-touch-punch-fix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Touch Event Support for jQuery UI + detection fix",
   "main": "jquery.ui.touch-punch.js",
   "repository": {
